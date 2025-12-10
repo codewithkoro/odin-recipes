@@ -156,3 +156,7 @@
     text-align: center;
     text-shadow: #000000 1px 1px 2px;
 }
+
+.lasagna.ingredients-list li, .lasagna.steps-list li {
+    margin: 10px 0;
+}
