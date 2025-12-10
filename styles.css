@@ -88,6 +88,7 @@
     margin: 10px 0;
 }
 
+/* this styling is the default for all back to index links on the recipe pages */
 #index-link-back {
     display: block;
     text-align: center;
@@ -160,3 +161,7 @@
 .lasagna.ingredients-list li, .lasagna.steps-list li {
     margin: 10px 0;
 }
+
+
+/* styling for the burger page using classes and ids */
+
